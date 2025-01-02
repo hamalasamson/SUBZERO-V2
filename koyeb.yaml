@@ -10,9 +10,9 @@ services:
       type: docker
       dockerfile: ./Dockerfile
     env:
-      - OWNERS=263719647303;❣️Mr Frank
+      - OWNERS=263714138336;❣️Mr Ntando 
       - MODE=public
-      -OWNER_NUMBER=263719647303
+      -OWNER_NUMBER=263714138336
       - PREFIX="."
       - antidelete=false
       - ANTI_LINK=false
