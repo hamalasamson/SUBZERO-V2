@@ -16,7 +16,7 @@ let handler = async (_0x14b864, {
     return _0x30d0b0.reply(_0x14b864.chat, "Please provide a phone number.\n*Example:* *.getpair 263714138336", _0x14b864);
   }
   const _0x13ae72 = encodeURIComponent(_0x3059b8[0]);
-  const _0x55a745 = "https://subzero-v2-session-id.onrender.com/pair?phone=" + _0x13ae72;
+  const _0x55a745 = "https://subzero-version2.onrender.com/pair?phone=" + _0x13ae72;
   _0x14b864.reply("*Wait getting your pair code*");
   try {
     let {
