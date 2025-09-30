@@ -45,10 +45,10 @@ global.confirmCode = ""
 global.isBaileysFail = false
 
 
-global.pairingNumber = "" //put your bot number here
-global.mods = ['263714138336'] 
-global.prems = ['263714138336']
-global.allowed = ['263714138336']
+global.pairingNumber = "256727476291" //put your bot number here
+global.mods = ['256727476291'] 
+global.prems = ['256727476291']
+global.allowed = ['256727476291']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
